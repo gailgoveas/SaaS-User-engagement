@@ -28,18 +28,18 @@ The dataset spans from June 2017 to January 2023 and contains 10,575 records.
 #### Monthly Usage Analysise
 A concerning drop in total time spent was observed in January 2023 compared to previous years. This prompted a deeper dive into feature-specific usage.
 
-![Total Time Spent in January Over the Years](path/to/january_total_time_spent.png)
+![Total Time Spent in January Over the Years](january_total_time_spent.png)
 
 #### Feature Usage Analysis
 Beyond a decrease in account management and reporting, the most concerning finding is the significant 10-hour drop in Roadmap usage
 
-![Total Sessions for "Roadmap"](path/to/feature_usage.png)
+![Total Sessions for "Roadmap"](feature_usage.png)
 
 
 #### User Analysis
 The user engagement for roadmap heatmap revealed a decrease in usage by some highly active users in January 2023. This led to further investigation of user behavior.
 
-![User Usage Heatmap](path/to/heatmap.png)
+![User Usage Heatmap](heatmap.png)
 
 
 #### Session Analysis
@@ -47,11 +47,11 @@ The user engagement for roadmap heatmap revealed a decrease in usage by some hig
 
 #### Total Sessions Over the Years
 Total Sessions: Confirmed a significant decrease in "Roadmap" sessions in January 2023.
-![Total time per Session Over the Years](path/to/roadmap_usage.png.png)
+![Total time per Session Over the Years](roadmap_usage.png.png)
 
 #### Average Time per Session Over the Years
 Avg Time per Session: A decrease suggests fewer users are engaging and those who do are spending less time.
-![Average Time per Session Over the Years](path/to/roadmap_time_per_session.png.png)
+![Average Time per Session Over the Years](roadmap_time_per_session.png.png)
 
 
 To proactively track future performance, monitoring the following metrics is recommended:
