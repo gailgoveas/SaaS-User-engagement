@@ -47,11 +47,11 @@ The user engagement for roadmap heatmap revealed a decrease in usage by some hig
 
 #### Total Sessions Over the Years
 Total Sessions: Confirmed a significant decrease in "Roadmap" sessions in January 2023.
-![Total time per Session Over the Years](roadmap_usage.png.png)
+![Total time per Session Over the Years](roadmap_usage.png)
 
 #### Average Time per Session Over the Years
 Avg Time per Session: A decrease suggests fewer users are engaging and those who do are spending less time.
-![Average Time per Session Over the Years](roadmap_time_per_session.png.png)
+![Average Time per Session Over the Years](roadmap_time_per_session.png)
 
 
 To proactively track future performance, monitoring the following metrics is recommended:
